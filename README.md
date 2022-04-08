@@ -31,7 +31,7 @@
 
 # Textual-based Recommendation
 
-## reviews ##
+## title,abstract,tag ##
 - [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3269206.3271695) -Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI Apr 2020*
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021) -Qi Liu, Ruobing Xie, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang, Leyu Lin. **CIKM Oct 2020**[***github***](https://github.com/lqfarmer/GraphTR)
 - [Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2983323.2983682) -Yong Wu, Yuan Yao, Feng Xu, Hanghang Tong, Jian Lu. **CIKM Oct 2016**
