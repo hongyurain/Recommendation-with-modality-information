@@ -21,7 +21,6 @@
 - [Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9535249) -Jing Yi and Zhenzhong Chen. **IEEE Sep 2021**
 [***github***](https://github.com/jing-1/MVGAE)
 - [Pre-training Graph Transformer with Multimodal Side Information for Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3474085.3475709) -Yong Liu, Susen Yang, Chenyi Lei,, Guoxin Wang,, Haihong Tang, Juyong Zhang，Aixin Sun and Chunyan Miao. **MM Oct 2021**
-- [CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation](https://arxiv.org/pdf/2107.02390.pdf) -Ruihong Qiu, Sen Wang, Zhi Chen, Hongzhi Yin, and Zi Huang. **MM Oct 2021**
 [***github***](https://github.com/RuihongQiu/cornac/tree/master/cornac/models/causalrec)
 - [A two-stage embedding model for recommendation with multimodal auxiliary information](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S0020025521009270?via%3Dihub) -Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin. **Elsevier Jan 2022**
 - [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/pdf/2203.05406.pdf) -Fan Liu, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. **arxiv Mar 2022**
@@ -30,8 +29,15 @@
 - [Mining Latent Structures for Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475259) -Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Shuhui Wang, Liang Wang. **MM Oct 2021** [***github***](https://github.com/CRIPAC-DIG/LATTICE)
 
 
-# Review-based Recommendation
+# Textual-based Recommendation
 
+## reviews ##
+- [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3269206.3271695) -Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI Apr 2020*
+- [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021) -Qi Liu, Ruobing Xie, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang, Leyu Lin. **CIKM Oct 2020**[***github***](https://github.com/lqfarmer/GraphTR)
+- [Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2983323.2983682) -Yong Wu, Yuan Yao, Feng Xu, Hanghang Tong, Jian Lu. **CIKM Oct 2016**
+- [Interactive resource recommendation algorithm based on tag information](https://link.springer.com.remotexs.ntu.edu.sg/content/pdf/10.1007/s11280-018-0532-y.pdf) -Qing Xie. Feng Xiong. Tian Han. Yongjian Liu. Lin Li. Zhifeng Bao. **WWW Feb 2018**
+
+## reviews ##
 - [PARL: Let Strangers Speak Out What You Like](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3269206.3271695) -Libing Wu, Cong Quan, Chenliang Li, Donghong Ji. **CIKM Oct 2018**[***github***](https://github.com/WHUIR/PARL)
 - [Multi-Pointer Co-Attention Networks for Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3219819.3220086) -Yi Tay, Anh Tuan Luu, Siu Cheung Hui. **KDD Jul 2018**[***github***](https://github.com/vanzytay/KDD2018_MPCN)
 - [Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews](https://dl.acm.org/doi/pdf/10.1145/3178876.3186158) -Yichao Lu, Ruihai Dong, Barry Smyth. **WWW Apr 2018**
@@ -51,3 +57,13 @@
 - [Counterfactual Review-based Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3459637.3482244) -Kun Xiong, Wenwen Ye, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Binbin Hu, Zhiqiang Zhang, Jun Zhou. **CIKM Nov 2021**[***github***](https://github.com/CFCF-anonymous/Counterfactual-Review-based-Recommendation)
 - [Review-Aware Neural Recommendation with Cross-Modality Mutual Attention](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3459637.3482172) -Songyin Luo, Xiangkui Lu, Jun Wu, Jianbo Yuan. **CIKM Nov 2021**
 - [Improving Explainable Recommendations by Deep Review-Based Explanations](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9417205&tag=1) -SIXUN OUYANG AND AONGHUS LAWLOR. **IEEE Access Apr 2021**
+
+# Image-based Recommendation
+
+- [Image and Video Understanding for Recommendation and Spam Detection Systems](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394486.3406485) -Aman Gupta, Sirjan Kafle, Di Wen, Dylan Wang, Sumit Srivastava, Suhit Sinha, Nikita Gupta, Bharat Jain, Ananth Sankar, Liang Zhang. **KDD Aug 2020**
+- [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/9973) -Ruining He, Julian McAuley. **AAAI Feb 2016**[***github***](https://github.com/arogers1/VBPR)
+- [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/pdf/1806.09820.pdf) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv 2018**
+- [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/abs/10.1145/3320435.3320470) -Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič(Less). **UMAP Jun 2019**
+- [CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation](https://arxiv.org/pdf/2107.02390.pdf) -Ruihong Qiu, Sen Wang, Zhi Chen, Hongzhi Yin, and Zi Huang. **MM Oct 2021**
+- [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR Aug 2017**
+
