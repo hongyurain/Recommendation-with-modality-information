@@ -32,7 +32,7 @@
 # Textual-based Recommendation
 
 ## title,abstract,tag ##
-- [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3269206.3271695) -Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI Apr 2020*
+- [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3269206.3271695) -Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI Apr 2020**
 - [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021) -Qi Liu, Ruobing Xie, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang, Leyu Lin. **CIKM Oct 2020**[***github***](https://github.com/lqfarmer/GraphTR)
 - [Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2983323.2983682) -Yong Wu, Yuan Yao, Feng Xu, Hanghang Tong, Jian Lu. **CIKM Oct 2016**
 - [Interactive resource recommendation algorithm based on tag information](https://link.springer.com.remotexs.ntu.edu.sg/content/pdf/10.1007/s11280-018-0532-y.pdf) -Qing Xie. Feng Xiong. Tian Han. Yongjian Liu. Lin Li. Zhifeng Bao. **WWW Feb 2018**
@@ -67,3 +67,6 @@
 - [CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation](https://arxiv.org/pdf/2107.02390.pdf) -Ruihong Qiu, Sen Wang, Zhi Chen, Hongzhi Yin, and Zi Huang. **MM Oct 2021**
 - [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR Aug 2017**
 
+# Survey
+
+- [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3407190) -Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys Sep 2021**
