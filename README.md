@@ -27,7 +27,7 @@
 - [Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation](https://arxiv.org/pdf/2111.00678.pdf) -Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Mengqi Zhang, Shu Wu, Liang Wang. **arxiv Mar 2022** (Extended version of LATTICE which has been published in MM21)
 [***github***](https://github.com/cripac-dig/micro)
 - [Mining Latent Structures for Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475259) -Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Shuhui Wang, Liang Wang. **MM Oct 2021** [***github***](https://github.com/CRIPAC-DIG/LATTICE)
-
+- [Why Do We Click: Visual Impression-aware News Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3474085.3475514) -Jiahao Xun, Shengyu Zhang, Zhou Zhao, Jieming Zhu, Qi Zhang, Jingjie Li, Xiuqiang He, Xiaofei He, Tat-Seng Chua, Fei Wu. **MM Oct 2021** [***github***](https://github.com/JiahaoXun/IMRec)
 
 # Textual-based Recommendation
 
