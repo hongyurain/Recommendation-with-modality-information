@@ -28,6 +28,11 @@
 [***github***](https://github.com/cripac-dig/micro)
 - [Mining Latent Structures for Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475259) -Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Shuhui Wang, Liang Wang. **MM Oct 2021** [***github***](https://github.com/CRIPAC-DIG/LATTICE)
 - [Why Do We Click: Visual Impression-aware News Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3474085.3475514) -Jiahao Xun, Shengyu Zhang, Zhou Zhao, Jieming Zhu, Qi Zhang, Jingjie Li, Xiuqiang He, Xiaofei He, Tat-Seng Chua, Fei Wu. **MM Oct 2021** [***github***](https://github.com/JiahaoXun/IMRec)
+- [DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/9662655) -Qifan Wang; Yinwei Wei; Jianhua Yin; Jianlong Wu; Xuemeng Song; Liqiang Nie. **TMM Dec 2021** [***github***](https://github.com/wqf321/dualgnn)
+- [MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation](https://dl.acm.org/doi/pdf/10.1145/3544106) -Kang Liu, Feng Xue, Dan Guo, Le Wu, Shujie Li, Richang Hong. **TOIS May 2022** [***github***](https://github.com/kangliu1225/MEGCF)
+- [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/document/9811387) -Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang*, Lifang Yang, Xianglin Huang, Tat-Seng Chua. **TMM Jun 2022** [***github***](https://github.com/zltao/SLMRec/)
+- [Multi-Modal Contrastive Pre-training for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3512527.3531378) -Zhuang Liu, Yunpu Ma, Matthias Schubert, Yuanxin Ouyang, Zhang Xiong. **ICMR Jun 2022** 
+- [Hierarchical User Intent Graph Network for Multimedia Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9453189) -Yinwei Wei; Xiang Wang; Xiangnan He; Liqiang Nie; Yong Rui; Tat-Seng Chua. **TMM Jun 2021** [***github***](https://github.com/weiyinwei/HUIGN)
 
 # Textual-based Recommendation
 
