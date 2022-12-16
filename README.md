@@ -1,8 +1,10 @@
 # Multimodal and Unimodal Recommendation Paperlist
-This is the sumarized paperlist that has been metioned in our mutlimodal recommendation survey paper:
+This is the sumarized paperlist that has been mentioned in our mutlimodal recommendation survey paper:
 >xxx
 
-Moreover, we also include the unimodal recommendation papers and will updated the paperlist.
+Moreover, we also include the unimodal recommendation papers and will update the paperlist.
+
+The framework code is avaiable at: https://github.com/enoche/MMRec
 
 ## Table of Contents
 
