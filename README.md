@@ -1,4 +1,8 @@
 # Multimodal and Unimodal Recommendation Paperlist
+This is the sumarized paperlist that has been metioned in our mutlimodal recommendation survey paper:
+>xxx
+
+Moreover, the we also include the unimodal recommendation papers and will updated the paperlist.
 
 ## Table of Contents
 
@@ -11,6 +15,9 @@
 - [Visual Based Rec](#visual-based-rec)
 
 ## Background
+The traditional recommendation system requires a large number of interactions between users and items to make accurate recommendation. The mulitmodal information has been utilized to alleviate the data sparsity problem and cold start issue. The unimodal information has been utilized to enrich the representations and recently, the fused multimodal information has been also leverage to improve the performance accuracy.
+
+We classified the papers according to the modality information they used and list out the paper list according to the publish time.
 
 ## Survey
 
