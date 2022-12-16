@@ -2,7 +2,7 @@
 This is the sumarized paperlist that has been metioned in our mutlimodal recommendation survey paper:
 >xxx
 
-Moreover, the we also include the unimodal recommendation papers and will updated the paperlist.
+Moreover, we also include the unimodal recommendation papers and will updated the paperlist.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Moreover, the we also include the unimodal recommendation papers and will update
 - [Multimodal Rec](#multimodal-rec)
 - [Textual Based Rec](#textual-based-rec)
 	- [Title Abstract Tag](#title-abstract-tag)
-	- [Reviews](#reviews) 
+	- [Review Description](#reviews-description) 
 - [Visual Based Rec](#visual-based-rec)
 
 ## Background
@@ -25,6 +25,8 @@ We classified the papers according to the modality information they used and lis
 
 ## Multimodal Rec
 
+* Collaborative Knowledge Base Embedding for Recommender Systems [KDD Aug 2016] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2939672.2939673)]
+* Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources [CIKM Nov 2017] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3132847.3132892)] [***github***](https://github.com/evison/JRL)
 * User-Video Co-Attention Network for Personalized Micro-video Recommendation [WWW May 2019] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3308558.3313513)]
 * Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network [SIGIR Jul 2019] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3331184.3331254)]
 * Multimodal Representation Learning for Recommendation in Internet of Things [IEEE internet of things journal Sep 2019] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=8832204)]
@@ -35,6 +37,7 @@ We classified the papers according to the modality information they used and lis
 * Multi-modal Knowledge Graphs for Recommender Systems [CIKM Oct 2020] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3411947)]
 * Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback [MM Oct 2020] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394171.3413556)] [***github***](https://github.com/weiyinwei/GRCN)
 * Recommendation by Users’ Multimodal Preferences for Smart City Applications [IEEE transactions on industrial informatics June 2021] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9152003)] [***github***](https://github.com/winterant/UMPR)
+* MULTIMODAL DISENTANGLED REPRESENTATION FOR RECOMMENDATION [ICME Jul 2021] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9428193)]
 * MM-Rec: Multimodal News Recommendation [SIGIR Jul 2021] [[__pdf__](https://arxiv.org/pdf/2104.07407.pdf)]
 * Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems [TMM Sep 2021] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9535249)] [***github***](https://github.com/jing-1/MVGAE)
 * Why Do We Click: Visual Impression-aware News Recommendation [MM Oct 2021] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3474085.3475514)] [***github***](https://github.com/JiahaoXun/IMRec)
@@ -50,20 +53,21 @@ We classified the papers according to the modality information they used and lis
 * Multi-Modal Contrastive Pre-training for Recommendation [ICMR Jun 2022] [[__pdf__](https://dl.acm.org/doi/pdf/10.1145/3512527.3531378)]
 
 
+
+
 ## Textual Based Rec
 
 ### Title Abstract Tag
 
 * Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation [CIKM Oct 2016] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2983323.2983682)]
 * Interactive resource recommendation algorithm based on tag information [WWW Feb 2018] [[__pdf__](https://link.springer.com.remotexs.ntu.edu.sg/content/pdf/10.1007/s11280-018-0532-y.pdf)]
-* Leveraging Title-Abstract Attentive Semantics for Paper Recommendation [AAAI Apr 2020] [[__pdf__](https://ojs.aaai.org/index.php/AAAI/article/view/5335)]  [***github***](https://github.com/kangliu1225/MEGCF)
+* Leveraging Title-Abstract Attentive Semantics for Paper Recommendation [AAAI Apr 2020] [[__pdf__](https://ojs.aaai.org/index.php/AAAI/article/view/5335)]
 * Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation [CIKM Oct 2020] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021)] [***github***](https://github.com/lqfarmer/GraphTR)
 
 
-### Reviews
+### Review Description
 
 * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys Sep 2016] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2959100.2959165)] [***github***](https://github.com/cartopy/ConvMF)
-
 * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM Feb 2017] [[__pdf__](https://dl.acm.org/doi/pdf/10.1145/3018661.3018665)] [***github***](https://github.com/winterant/DeepCoNN)
 * Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction [RecSys Aug 2017] [[__pdf__](https://dl.acm.org/doi/pdf/10.1145/3109859.3109890)] [***github***](https://github.com/seongjunyun/CNN-with-Dual-Local-and-Global-Attention)
 * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW Apr 2018] [[__pdf__](https://dl.acm.org/doi/pdf/10.1145/3178876.3186158)]
@@ -82,17 +86,25 @@ We classified the papers according to the modality information they used and lis
 * Improving Explainable Recommendations by Deep Review-Based Explanations [IEEE Access Apr 2021] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9417205&tag=1)]
 * Counterfactual Review-based Recommendation [CIKM Nov 2021] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3459637.3482244)] [***github***](https://github.com/CFCF-anonymous/Counterfactual-Review-based-Recommendation)
 * Review-Aware Neural Recommendation with Cross-Modality Mutual Attention [CIKM Nov 2021] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3459637.3482172)] 
+* Aligning Dual Disentangled User Representations from Ratings and Textual Content [KDD Aug 2022] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3534678.3539474)] [***github***](https://github.com/PreferredAI/ADDVAE)
+
 
 
 
 ## Visual Based Rec
 
 * VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [AAAI Feb 2016] [[__pdf__](https://ojs.aaai.org/index.php/AAAI/article/view/9973)] [***github***](https://github.com/arogers1/VBPR)
+* Do" Also-Viewed" Products Help User Rating Prediction? [WWW Apr 2017] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3038912.3052581)]
 * DeepStyle: Learning User Preferences for Visual Recommendation [SIGIR Aug 2017] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080658)] 
+* Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention [SIGIR Aug 2017] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080797)] [***github***](https://github.com/ChenJingyuan91/ACF) 
+* Visually-aware fashion recommendation and design with generative image models [ICDM Nov 2017] [[__pdf__](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=8215493)] [***github***](https://github.com/elenagiarratano/visually-aware-recommender-system) 
 * Visually-Aware Personalized Recommendation using Interpretable Image Representations [arxiv 2018] [[__pdf__](https://arxiv.org/pdf/1806.09820.pdf)]
 * Exploring the Power of Visual Features for the Recommendation of Movies [UMAP Jun 2019] [[__pdf__](https://dl.acm.org/doi/abs/10.1145/3320435.3320470)]
 * Image and Video Understanding for Recommendation and Spam Detection Systems [KDD Aug 2020] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394486.3406485)] 
 * CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation [MM Oct 2021] [[__pdf__](https://arxiv.org/pdf/2107.02390.pdf)]
+
+
+
 
 
 
