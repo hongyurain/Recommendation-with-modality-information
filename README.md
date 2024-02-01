@@ -15,8 +15,7 @@ The framework code is avaiable at: https://github.com/enoche/MMRec
 	- [Title Abstract Tag](#title-abstract-tag)
 	- [Review Description](#reviews-description) 
 - [Visual Based Rec](#visual-based-rec)
-
-- [Evaluation Result](#Evaluation Result)
+- [Evaluation Result](#evaluation-result)
 
 ## Background
 The traditional recommendation system requires a large number of interactions between users and items to make accurate recommendation. The mulitmodal information has been utilized to alleviate the data sparsity problem and cold start issue. The unimodal information has been utilized to enrich the representations and recently, the fused multimodal information has been also leverage to improve the performance accuracy.
@@ -109,7 +108,7 @@ We classified the papers according to the modality information they used and lis
 
 ## Evaluation Result
 
-
+11
 
 
 
