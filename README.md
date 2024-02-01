@@ -16,6 +16,8 @@ The framework code is avaiable at: https://github.com/enoche/MMRec
 	- [Review Description](#reviews-description) 
 - [Visual Based Rec](#visual-based-rec)
 
+- [Evaluation Result](#Evaluation Result)
+
 ## Background
 The traditional recommendation system requires a large number of interactions between users and items to make accurate recommendation. The mulitmodal information has been utilized to alleviate the data sparsity problem and cold start issue. The unimodal information has been utilized to enrich the representations and recently, the fused multimodal information has been also leverage to improve the performance accuracy.
 
@@ -105,6 +107,7 @@ We classified the papers according to the modality information they used and lis
 * Image and Video Understanding for Recommendation and Spam Detection Systems [KDD Aug 2020] [[__pdf__](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394486.3406485)] 
 * CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation [MM Oct 2021] [[__pdf__](https://arxiv.org/pdf/2107.02390.pdf)]
 
+## Evaluation Result
 
 
 
