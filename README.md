@@ -244,8 +244,9 @@ We are interested in how the modality information benefits the recommendation, a
 
 The following figure is based on Recall@20 to show the summary and tendency of other modalities, visually summarize the impact of different modalities on various models. The orange point represents the performance of multi-modality, the green one represents the performance of textual modality and the blue point is for visual modality. The specific numerical values will be shown in our github.
 
-![image](https://github.com/hongyurain/Recommendation-with-modality-information/blob/main/IMG/modality-baby.pdf)
-![image](https://github.com/hongyurain/Recommendation-with-modality-information/blob/main/IMG/modality-sports.pdf)
+
+<img src="https://github.com/hongyurain/Recommendation-with-modality-information/blob/main/IMG/modality-baby.jpg" alt="image-1" height="50%" width="50%" /><img src="https://github.com/hongyurain/Recommendation-with-modality-information/blob/main/IMG/modality-sports.jpg" alt="image-2" height="50%" width="50%" />
+
 
 
 #### Please consider to cite our paper if it helps you, thanks:
